@@ -1,6 +1,6 @@
 # Hi 👋, I'm Bekulan!
 
-### A dedicated Software Engineer at Two95-International
+
 
 ![Visitors](https://badges.pufler.dev/visits/burma/burma?style=flat-square)
 
