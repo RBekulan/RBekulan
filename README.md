@@ -27,9 +27,8 @@ I'm deeply passionate about backend development, specializing in creating scalab
 
 🔗 Connect with me:
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bekulan)
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bekulan)
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://bekulanportfolio.vercel.app)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bekulan-rysmatov-165928279/)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RBekulan)
 
 Let's build something exceptional together!
 
